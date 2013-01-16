@@ -4,9 +4,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title></title>
     </head>
-    <body>
+    <body>hp
+        echo("Hola1");
+        ?>
         <?php
         echo("Hola1");
+        echo("Hola2");
         ?>
     </body>
 </html>
